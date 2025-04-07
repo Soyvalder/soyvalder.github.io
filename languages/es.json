@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "item2": "Sobre mí",
+        "item3": "Habilidades",
+        "item4": "Formación",
+        "item5": "Proyectos",
+        "item6": "Contacto"
+    },
+
+    "home": {
+        "home_text-1": "¡Hola! Soy",
+        "home_text-3": "Analista de Datos",
+        "parrafo-info": "Soy profesional con más de 3 años de experiencia en diversas áreas, incluyendo gestión financiera, contabilidad, soporte técnico, P2P, informática y logística. Actualmente, me estoy enfocando en el ámbito de Data y Blockchain, buscando combinar mi experiencia en la interacción con clientes y usuarios con el análisis de datos para tomar decisiones estratégicas.",
+        "cv_button": "Descargar CV",
+        "contact_button": "Contacto"
+    },
+
+    "sobre-mi": {
+        "title": "Sobre mí",
+        "texto_sobreMi": "¡Hola! Soy Valerio, Poseo habilidades en adaptabilidad, pensamiento crítico y analítico, así como en la gestión de datos utilizando herramientas como Excel, SQL, Power BI, Tableau, Python e Informatica. Estoy preparado para enfrentar nuevos desafíos y contribuir de manera significativa a cualquier equipo, siempre con una actitud entusiasta y orientada al crecimiento."
+    },
+
+    "habilidades": {
+        "title": "Herramientas"
+    },
+
+    "formacion": {
+        "title": "Capacitación",
+        "formacion1": "Instituto tecnologico Benjamin Franklin",
+        "tiempo-formacion1": "2016 - 2020",
+        "formacion2": "Gestion y finanzas",
+        "tiempo-formacion2": "2023 - progreso constantemente",
+        "formacion3": "Analista de datos"
+    },
+
+    "proyectos": {
+        "title": "Proyectos",
+        "title-proyecto1": "Análisis identificación de patrones",
+        "info-proyecto1": "Analisis datos para la tienda online de videojuegos Ice, identificando patrones de éxito mediante reseñas y clasificaciones ESRB. El objetivo es desarrollar modelos predictivos y mejorar estrategias de marketing.",
+        "title-proyecto2": "Pronostico y prediccion gym model fitness",
+        "info-proyecto2": "Model Fitness desarrolla una estrategia analítica para abordar la pérdida de clientes en gimnasios. Se busca predecir rotación y mejorar la atención al cliente.",
+        "title-proyecto3": "Desarrollo de un Servicio de Recomendación",
+        "info-proyecto3": "Consultas SQL analiza cómo la pandemia transformó los hábitos de lectura, impulsando soluciones y se busca crear una propuesta innovadora que mejore la experiencia de lectura en línea."
+    },
+
+    "contacto": {
+        "title": "Contacto",
+        "text": "Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.",
+        "btn-enviar": "Enviar"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "menu": {
+        "item2": "About me",
+        "item3": "Skills",
+        "item4": "Training",
+        "item5": "Projects",
+        "item6": "Contact"
+    },
+
+    "home": {
+        "home_text-1": "¡Hi! I'm",
+        "home_text-3": "Data Analyst",
+        "parrafo-info": "I am a professional with over three years of experience in various fields, including financial management, accounting, technical support, P2P, IT, and logistics. I am currently focusing on data and blockchain, seeking to combine my experience interacting with clients and users with data analysis to make strategic decisions.",
+        "cv_button": "Download CV",
+        "contact_button": "Contact"
+    },
+
+    "sobre-mi": {
+        "title": "About me",
+        "texto_sobreMi": "Hi! I'm Valerio, I possess skills in adaptability, critical and analytical thinking, and data management using tools such as Excel, SQL, Power BI, Tableau, Python, and Informatica. I am ready to take on new challenges and contribute meaningfully to any team, always with an enthusiastic and growth-oriented attitude."
+    },
+
+    "habilidades": {
+        "title": "Skills"
+    },
+
+    "formacion": {
+        "title": "Training",
+        "formacion1": "Benjamin Franklin Institute of Technology",
+        "tiempo-formacion1": "2016 - 2020",
+        "formacion2": "Management and finance",
+        "tiempo-formacion2": "2023 - In progress constant",
+        "formacion3": "Data Analyst"
+    },
+
+    "proyectos": {
+        "title": "Projects",
+        "title-proyecto1": "Pattern Analysis",
+        "info-proyecto1": "Data analysis for the Ice online video game store, identifying success patterns through reviews and ESRB ratings. The goal is to develop predictive models and improve marketing strategies.",
+        "title-proyecto2": "Forecast and Prediction Gym Model Fitness",
+        "info-proyecto2": "Model Fitness develops an analytical strategy to address customer loss in gyms. It seeks to predict turnover and improve customer service.",
+        "title-proyecto3": "Development of a Recommendation Service",
+        "info-proyecto3": "SQL queries analyze how the pandemic transformed reading habits, driving solutions and seeking to create an innovative proposal that improves the online reading experience."
+    },
+
+    "contacto": {
+        "title": "Contact",
+        "text": "Complete the form below and I will contact you as soon as possible.",
+        "btn-enviar": "Send"
+    }
+}
