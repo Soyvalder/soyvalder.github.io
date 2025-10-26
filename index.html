@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Google tag (gtag.js) - DEBE IR AQUÍ AL INICIO -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-KNCG44GLG4"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-KNCG44GLG4');
+    </script>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Jhair Flores">
-    <meta name="description" content="Portafolio | Jhair Flores Desarrollador Web">
+    <meta name="author" content="Jhr Flor">
+    <meta name="description" content="Portafolio | Jhai">
     <meta name="robots" content="index,follow">
 
-    <title>Valerio Maquera | Analista de Datos</title>
+    <title>Valerio Maquera | Analista de Datos </title>
 
     <!-- Librerías -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -89,9 +98,6 @@
                 <div class="container_button">
                     <a href="Data Analyst - Valerio Maquera.pdf" target="_blank">
                         <button class="cv_button" data-section="home" data-value="cv_button">Descargar CV</button>
-                    </a>
-                    <a href="#contacto">
-                        <button class="contact_button" data-section="home" data-value="contact_button">Contacto</button>
                     </a>
                 </div>
             </div>
@@ -315,30 +321,7 @@
             </div> 
         </section>
 
-        <!-- Contacto -->
-        <section class="contacto" id="contacto">
-            <h1 data-section="contacto" data-value="title" data-aos="fade-up">Contacto</h1>
 
-            <div class="container_box--contacto" data-aos="fade-up" data-aos-anchor-placement="center-bottom">
-    
-                <div class="container--contacto">
-                    <div class="container_text--contacto">
-                        <p data-section="contacto" data-value="text">Completa el siguiente formulario y me pondré en contacto contigo lo antes posible.</p>
-                    </div>
-    
-                    <form action="https://formspree.io/f/xdkepope" method="POST" class="form-contact">
-                        <input id="nombre" type="text" name="name" placeholder="Nombre | Name" required>
-                        <input id="email" type="email" name="email" placeholder="E-mail" required>
-                        <input id="asunto" type="text" name="affair" placeholder="Asunto | Subject" required>
-                        <textarea id="mensaje" cols="20" rows="4" name="message" placeholder="Mensaje | Message" required></textarea>
-    
-                        <div class="btn_form--contacto">
-                            <button id="btn-enviar" type="submit" data-section="contacto" data-value="btn-enviar">Enviar</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </section>
     </main>
 
     <footer>

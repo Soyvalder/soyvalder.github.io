@@ -1,0 +1,14 @@
+{
+  "name": "soyvalder-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website for Valerio Maquera, showcasing skills, projects, and contact information.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Valerio Maquera",
+  "license": "ISC"
+}

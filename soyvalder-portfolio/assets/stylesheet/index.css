@@ -1,0 +1,97 @@
+/* Main styles for the portfolio layout and design */
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container--loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #fff;
+}
+
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.logo__header {
+    max-width: 150px;
+}
+
+.nav_menu {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.nav_menu a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.nav_menu a.active {
+    font-weight: bold;
+}
+
+.main {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.container_button {
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+.footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.go-top-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.go-top-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.go-top-button:hover {
+    background-color: #0056b3;
+}

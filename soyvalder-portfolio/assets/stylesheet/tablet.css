@@ -1,0 +1,43 @@
+/* Styles for tablet viewports */
+
+@media (min-width: 760px) and (max-width: 980px) {
+    body {
+        font-size: 16px;
+        line-height: 1.5;
+    }
+
+    .header {
+        padding: 20px;
+    }
+
+    .nav_menu {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .home_info {
+        padding: 20px;
+    }
+
+    .cards_container--habilidades {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .cards--habilidades {
+        padding: 15px;
+        text-align: center;
+    }
+
+    .form-contact {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .container_box--contacto {
+        padding: 20px;
+    }
+}
