@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "¡Hi! I'm",
-        "home_text-3": "Data Analyst",
-        "parrafo-info": "I am a professional with over three years of experience in various fields, including financial management, accounting, technical support, P2P, IT, and logistics. I am currently focusing on data and blockchain, seeking to combine my experience interacting with clients and users with data analysis to make strategic decisions.",
+        "home_text-3": "Developer data blockchain",
+        "parrafo-info": "I am a professional with over three years of experience in diverse areas, including financial management, accounting, technical support, P2P, IT, and logistics. I currently develop verified smart contracts on Arbitrum (Solidity/Rust) and predictive models with Python that have increased retention by 23% and conversions by 17%. I specialize in funnel analysis, A/B testing, churn prediction, and tokenomics design. I build automated dashboards with Tableau/Power BI and n8n workflows. I transform on-chain and traditional data into actionable insights for scalable Web3 products.",
         "cv_button": "Download CV",
         "contact_button": "Contact"
     },
 
     "sobre-mi": {
         "title": "About me",
-        "texto_sobreMi": "Hi! I'm Valerio, I possess skills in adaptability, critical and analytical thinking, and data management using tools such as Excel, SQL, Power BI, Tableau, Python, and Informatica. I am ready to take on new challenges and contribute meaningfully to any team, always with an enthusiastic and growth-oriented attitude."
+        "texto_sobreMi": "I'm Valerio. I use Solidity and Rust for verified smart contracts, Python and SQL for predictive models, React and Next.js for Web3 interfaces, and n8n for automation. This integrated stack allows me to run the entire cycle: from analyzing financial data and designing profitable tokenomics, to developing functional dApps in Arbitrum with Tableau dashboards that measure real impact."
     },
 
     "habilidades": {

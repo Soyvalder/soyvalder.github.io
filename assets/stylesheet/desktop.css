@@ -235,8 +235,8 @@ div.btn {
 }
 
 .cards_container--habilidades {
-    grid-template-columns: 13rem 13rem 13rem 13rem;
-    grid-template-rows: 14rem 14rem;
+    grid-template-columns: repeat(6, 13rem);
+    grid-auto-rows: 14rem;
     padding: 0;
     margin-top: 2rem;
 }

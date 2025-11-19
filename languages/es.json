@@ -9,15 +9,15 @@
 
     "home": {
         "home_text-1": "¡Hola! Soy",
-        "home_text-3": "Analista de Datos",
-        "parrafo-info": "Soy profesional con más de 3 años de experiencia en diversas áreas, incluyendo gestión financiera, contabilidad, soporte técnico, P2P, informática y logística. Actualmente, me estoy enfocando en el ámbito de Data y Blockchain, buscando combinar mi experiencia en la interacción con clientes y usuarios con el análisis de datos para tomar decisiones estratégicas.",
+        "home_text-3": "Developer data blockchain",
+        "parrafo-info": "Soy profesional con más de 3 años de experiencia en diversas áreas, incluyendo gestión financiera, contabilidad, soporte técnico, P2P, informática y logística. Actualmente desarrollo smart contracts verificados en Arbitrum (Solidity/Rust) y modelos predictivos con Python que aumentaron retención 23% y conversiones 17%. Especializado en análisis de funnels, A/B testing, churn prediction y tokenomics design. Construyo dashboards automatizados con Tableau/Power BI y workflows n8n. Transformo datos on-chain y tradicionales en insights accionables para productos Web3 escalables.",
         "cv_button": "Descargar CV",
         "contact_button": "Contacto"
     },
 
     "sobre-mi": {
         "title": "Sobre mí",
-        "texto_sobreMi": "¡Hola! Soy Valerio, Poseo habilidades en adaptabilidad, pensamiento crítico y analítico, así como en la gestión de datos utilizando herramientas como Excel, SQL, Power BI, Tableau, Python e Informatica. Estoy preparado para enfrentar nuevos desafíos y contribuir de manera significativa a cualquier equipo, siempre con una actitud entusiasta y orientada al crecimiento."
+        "texto_sobreMi": "Soy Valerio, Utilizo Solidity y Rust para smart contracts verificados, Python y SQL para modelos predictivos, React y Next.js para interfaces Web3, y n8n para automatización. Este stack integrado me permite ejecutar el ciclo completo: desde analizar datos financieros y diseñar tokenomics rentables, hasta desarrollar dApps funcionales en Arbitrum con dashboards en Tableau que miden impacto real."
     },
 
     "habilidades": {
